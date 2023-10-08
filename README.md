@@ -1,5 +1,5 @@
 # Quote 📝<br>
-📌My first React App with quotes 📌 <br>
+📌My First React Application with random quotes 📌 <br>
 
 Made with love by Gergana ™
 
